@@ -1,0 +1,33 @@
+اسم الصفحة: AuthView
+
+الوصف والموجز: 
+تمثل هذه الصفحة/المكون جزءاً من واجهة مستخدم تطبيق "سوق المناقل الرقمي". تعمل على توفير وظائف متخصصة للمستخدمين لعرض وتفاعل مع المنصة.
+
+الإضافات والاعتمادات (المكتبات المستخدمة):
+react
+- firebase/database
+
+الميزات والوظائف المتوفرة في الصفحة:
+- LogIn
+- Sparkles
+- ShieldCheck
+- Loader2
+- AlertCircle
+- Phone
+- User
+- Lock
+- Eye
+- EyeOff
+- Store
+- Users
+- UserCircle2
+- ArrowLeft
+- MapPin
+- Edit2
+- ClipboardCheck
+- Mail
+- Briefcase
+- CheckCircle2
+
+تفاصيل إضافية: 
+تم تصميم الصفحة لتكون متجاوبة (Responsive) وسريعة الأداء.

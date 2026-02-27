@@ -1,0 +1,30 @@
+اسم الصفحة: AddCropOfferModal
+
+الوصف والموجز: 
+تمثل هذه الصفحة/المكون جزءاً من واجهة مستخدم تطبيق "سوق المناقل الرقمي". تعمل على توفير وظائف متخصصة للمستخدمين لعرض وتفاعل مع المنصة.
+
+الإضافات والاعتمادات (المكتبات المستخدمة):
+react
+- lucide-react
+- firebase/database
+
+الميزات والوظائف المتوفرة في الصفحة:
+- X
+- Wheat
+- MapPin
+- Scale
+- Phone
+- Info
+- CheckCircle2
+- Loader2
+- Sparkles
+- AlertCircle
+- Calendar
+- Tag
+- ShieldCheck
+- ArrowRight
+- Gavel
+- BarChart3
+
+تفاصيل إضافية: 
+تم تصميم الصفحة لتكون متجاوبة (Responsive) وسريعة الأداء.

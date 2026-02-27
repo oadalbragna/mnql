@@ -1,0 +1,47 @@
+اسم الصفحة: AddListingForm
+
+الوصف والموجز: 
+تمثل هذه الصفحة/المكون جزءاً من واجهة مستخدم تطبيق "سوق المناقل الرقمي". تعمل على توفير وظائف متخصصة للمستخدمين لعرض وتفاعل مع المنصة.
+
+الإضافات والاعتمادات (المكتبات المستخدمة):
+react
+- firebase/database
+
+الميزات والوظائف المتوفرة في الصفحة:
+- Camera
+- Sparkles
+- Loader2
+- X
+- MapPin
+- Check
+- ShieldCheck
+- Gauge
+- Fuel
+- Settings
+- Maximize2
+- Layers
+- Calendar
+- Package
+- Info
+- Gavel
+- Timer
+- Smartphone
+- CarFront
+- HomeIcon
+- Trash2
+- Edit2
+- ChefHat
+- Palette
+- Ruler
+- Hash
+- FileText
+- Clock
+- Bike
+- Zap
+- Monitor
+- Laptop
+- Power
+- BoxSelect
+
+تفاصيل إضافية: 
+تم تصميم الصفحة لتكون متجاوبة (Responsive) وسريعة الأداء.

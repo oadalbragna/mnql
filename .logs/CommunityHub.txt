@@ -1,0 +1,32 @@
+اسم الصفحة: CommunityHub
+
+الوصف والموجز: 
+تمثل هذه الصفحة/المكون جزءاً من واجهة مستخدم تطبيق "سوق المناقل الرقمي". تعمل على توفير وظائف متخصصة للمستخدمين لعرض وتفاعل مع المنصة.
+
+الإضافات والاعتمادات (المكتبات المستخدمة):
+react
+- firebase/database
+
+الميزات والوظائف المتوفرة في الصفحة:
+- ChevronLeft
+- Heart
+- Users
+- Globe
+- MessageCircle
+- PartyPopper
+- RefreshCw
+- Plus
+- X
+- Camera
+- Send
+- MapPin
+- Clock
+- ShieldAlert
+- Sparkles
+- Trash2
+- AtSign
+- Loader2
+- MessageSquare
+
+تفاصيل إضافية: 
+تم تصميم الصفحة لتكون متجاوبة (Responsive) وسريعة الأداء.

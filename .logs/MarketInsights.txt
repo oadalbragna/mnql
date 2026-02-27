@@ -1,0 +1,27 @@
+اسم الصفحة: MarketInsights
+
+الوصف والموجز: 
+تمثل هذه الصفحة/المكون جزءاً من واجهة مستخدم تطبيق "سوق المناقل الرقمي". تعمل على توفير وظائف متخصصة للمستخدمين لعرض وتفاعل مع المنصة.
+
+الإضافات والاعتمادات (المكتبات المستخدمة):
+react
+- lucide-react
+
+الميزات والوظائف المتوفرة في الصفحة:
+- ChevronLeft
+- TrendingUp
+- TrendingDown
+- DollarSign
+- Wheat
+- Activity
+- RefreshCw
+- ExternalLink
+- Sparkles
+- Globe
+- LineChart
+- PieChart
+- Map
+- Link
+
+تفاصيل إضافية: 
+تم تصميم الصفحة لتكون متجاوبة (Responsive) وسريعة الأداء.

@@ -1,0 +1,31 @@
+اسم الصفحة: HomeProduceShowcase
+
+الوصف والموجز: 
+تمثل هذه الصفحة/المكون جزءاً من واجهة مستخدم تطبيق "سوق المناقل الرقمي". تعمل على توفير وظائف متخصصة للمستخدمين لعرض وتفاعل مع المنصة.
+
+الإضافات والاعتمادات (المكتبات المستخدمة):
+react
+- lucide-react
+
+الميزات والوظائف المتوفرة في الصفحة:
+- ChefHat
+- ShoppingBag
+- Star
+- ChevronLeft
+- Heart
+- Search
+- Filter
+- Sparkles
+- Utensils
+- Gift
+- Palette
+- Clock
+- CheckCircle
+- Store
+- Flame
+- Coffee
+- PartyPopper
+- Users
+
+تفاصيل إضافية: 
+تم تصميم الصفحة لتكون متجاوبة (Responsive) وسريعة الأداء.

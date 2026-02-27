@@ -1,0 +1,31 @@
+اسم الصفحة: TrackDelivery
+
+الوصف والموجز: 
+تمثل هذه الصفحة/المكون جزءاً من واجهة مستخدم تطبيق "سوق المناقل الرقمي". تعمل على توفير وظائف متخصصة للمستخدمين لعرض وتفاعل مع المنصة.
+
+الإضافات والاعتمادات (المكتبات المستخدمة):
+react
+- lucide-react
+
+الميزات والوظائف المتوفرة في الصفحة:
+- ChevronLeft
+- Truck
+- MapPin
+- Phone
+- MessageSquare
+- Clock
+- ShieldCheck
+- CheckCircle2
+- Navigation
+- Plus
+- Minus
+- Crosshair
+- Map
+- Globe
+- Layers
+- AlertCircle
+- Sparkles
+- MousePointer2
+
+تفاصيل إضافية: 
+تم تصميم الصفحة لتكون متجاوبة (Responsive) وسريعة الأداء.

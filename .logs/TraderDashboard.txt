@@ -1,0 +1,60 @@
+اسم الصفحة: TraderDashboard
+
+الوصف والموجز: 
+تمثل هذه الصفحة/المكون جزءاً من واجهة مستخدم تطبيق "سوق المناقل الرقمي". تعمل على توفير وظائف متخصصة للمستخدمين لعرض وتفاعل مع المنصة.
+
+الإضافات والاعتمادات (المكتبات المستخدمة):
+react
+- firebase/database
+
+الميزات والوظائف المتوفرة في الصفحة:
+- Package
+- ChevronLeft
+- Trash2
+- Edit3
+- ShieldCheck
+- Activity
+- User
+- Phone
+- Save
+- LogOut
+- RefreshCw
+- ShoppingBag
+- Clock
+- CheckCircle2
+- MessageSquare
+- AlertCircle
+- Share2
+- Gavel
+- MessageCircle
+- ArrowUpRight
+- Box
+- Tag
+- MapPin
+- Edit2
+- Users
+- UserPlus
+- TrendingUp
+- BarChart3
+- Star
+- MoreVertical
+- Lock
+- Mail
+- Key
+- Shield
+- History
+- X
+- Store
+- Truck
+- Check
+- Search
+- Filter
+- Plus
+- Minus
+- Eye
+- EyeOff
+- Printer
+- FileText
+
+تفاصيل إضافية: 
+تم تصميم الصفحة لتكون متجاوبة (Responsive) وسريعة الأداء.

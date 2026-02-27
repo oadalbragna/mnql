@@ -1,0 +1,37 @@
+اسم الصفحة: ProductLandingPage
+
+الوصف والموجز: 
+تمثل هذه الصفحة/المكون جزءاً من واجهة مستخدم تطبيق "سوق المناقل الرقمي". تعمل على توفير وظائف متخصصة للمستخدمين لعرض وتفاعل مع المنصة.
+
+الإضافات والاعتمادات (المكتبات المستخدمة):
+react
+
+الميزات والوظائف المتوفرة في الصفحة:
+- X
+- MapPin
+- Calendar
+- Phone
+- MessageCircle
+- Heart
+- Store
+- ChevronRight
+- ChevronLeft
+- ShieldCheck
+- TrendingUp
+- ShoppingCart
+- Share2
+- ArrowRight
+- Gauge
+- Fuel
+- Settings
+- Maximize2
+- Layers
+- Info
+- CheckCircle
+- Star
+- UserCircle2
+- Gavel
+- Timer
+
+تفاصيل إضافية: 
+تم تصميم الصفحة لتكون متجاوبة (Responsive) وسريعة الأداء.

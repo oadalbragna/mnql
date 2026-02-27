@@ -1,0 +1,49 @@
+اسم الصفحة: TelegramBridge
+
+الوصف والموجز: 
+تمثل هذه الصفحة/المكون جزءاً من واجهة مستخدم تطبيق "سوق المناقل الرقمي". تعمل على توفير وظائف متخصصة للمستخدمين لعرض وتفاعل مع المنصة.
+
+الإضافات والاعتمادات (المكتبات المستخدمة):
+react
+- firebase/database
+
+الميزات والوظائف المتوفرة في الصفحة:
+- ArrowRight
+- Send
+- Download
+- Upload
+- Link
+- FileText
+- ShieldCheck
+- Loader2
+- Copy
+- Check
+- MessageSquare
+- ExternalLink
+- Trash2
+- RefreshCw
+- Smartphone
+- Bot
+- CheckCircle2
+- Layers
+- BookOpen
+- Image
+- Video
+- FilePlus
+- Save
+- History
+- Globe
+- Cpu
+- Monitor
+- Palette
+- Code
+- GraduationCap
+- Mic
+- ClipboardList
+- Share2
+- Database
+- Lock
+- Zap
+
+تفاصيل إضافية: 
+تم تصميم الصفحة لتكون متجاوبة (Responsive) وسريعة الأداء.

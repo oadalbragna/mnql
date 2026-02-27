@@ -1,0 +1,37 @@
+اسم الصفحة: ProductDetailsModal
+
+الوصف والموجز: 
+تمثل هذه الصفحة/المكون جزءاً من واجهة مستخدم تطبيق "سوق المناقل الرقمي". تعمل على توفير وظائف متخصصة للمستخدمين لعرض وتفاعل مع المنصة.
+
+الإضافات والاعتمادات (المكتبات المستخدمة):
+react
+
+الميزات والوظائف المتوفرة في الصفحة:
+- X
+- MapPin
+- Calendar
+- Phone
+- MessageCircle
+- Heart
+- Store
+- ChevronRight
+- ChevronLeft
+- ShieldCheck
+- TrendingUp
+- Video
+- Loader2
+- Fuel
+- Settings
+- Box
+- Maximize2
+- Layers
+- ShoppingCart
+- Plus
+- Monitor
+- Sun
+- ZoomIn
+- Info
+- Palette
+
+تفاصيل إضافية: 
+تم تصميم الصفحة لتكون متجاوبة (Responsive) وسريعة الأداء.

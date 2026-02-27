@@ -1,0 +1,9 @@
+{
+  "name": "Manaqil v5",
+  "description": "المنصة الرقمية المتكاملة لأهل المناقل والجزيرة - تجارة، خدمات، وبورصة حية.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}

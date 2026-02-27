@@ -1,0 +1,28 @@
+اسم الصفحة: MessagingView
+
+الوصف والموجز: 
+تمثل هذه الصفحة/المكون جزءاً من واجهة مستخدم تطبيق "سوق المناقل الرقمي". تعمل على توفير وظائف متخصصة للمستخدمين لعرض وتفاعل مع المنصة.
+
+الإضافات والاعتمادات (المكتبات المستخدمة):
+react
+- lucide-react
+
+الميزات والوظائف المتوفرة في الصفحة:
+- MessageSquare
+- Search
+- ChevronLeft
+- User
+- Send
+- CheckCheck
+- Bot
+- Sparkles
+- MoreVertical
+- Phone
+- Image
+- Smile
+- Mic
+- Trash2
+- ShieldCheck
+
+تفاصيل إضافية: 
+تم تصميم الصفحة لتكون متجاوبة (Responsive) وسريعة الأداء.

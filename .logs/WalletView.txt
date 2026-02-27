@@ -1,0 +1,25 @@
+اسم الصفحة: WalletView
+
+الوصف والموجز: 
+تمثل هذه الصفحة/المكون جزءاً من واجهة مستخدم تطبيق "سوق المناقل الرقمي". تعمل على توفير وظائف متخصصة للمستخدمين لعرض وتفاعل مع المنصة.
+
+الإضافات والاعتمادات (المكتبات المستخدمة):
+react
+- lucide-react
+- firebase/database
+
+الميزات والوظائف المتوفرة في الصفحة:
+- ChevronLeft
+- Wallet
+- ArrowUpRight
+- ArrowDownLeft
+- History
+- Plus
+- Copy
+- CheckCircle2
+- RefreshCw
+- CreditCard
+- ShieldCheck
+
+تفاصيل إضافية: 
+تم تصميم الصفحة لتكون متجاوبة (Responsive) وسريعة الأداء.

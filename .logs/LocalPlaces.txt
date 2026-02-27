@@ -1,0 +1,30 @@
+اسم الصفحة: LocalPlaces
+
+الوصف والموجز: 
+تمثل هذه الصفحة/المكون جزءاً من واجهة مستخدم تطبيق "سوق المناقل الرقمي". تعمل على توفير وظائف متخصصة للمستخدمين لعرض وتفاعل مع المنصة.
+
+الإضافات والاعتمادات (المكتبات المستخدمة):
+react
+- lucide-react
+- firebase/database
+
+الميزات والوظائف المتوفرة في الصفحة:
+- ChevronLeft
+- MapPin
+- Search
+- Navigation
+- ExternalLink
+- Loader2
+- Hospital
+- Coffee
+- ShoppingBag
+- Landmark
+- Compass
+- Phone
+- AlertCircle
+- Star
+- ArrowRight
+- Sparkles
+
+تفاصيل إضافية: 
+تم تصميم الصفحة لتكون متجاوبة (Responsive) وسريعة الأداء.
